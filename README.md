@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is <b>uttej karamala.</b><br> and I'm a full-stack developer, AI enthusiast, Student. <br>From <b>india</b></h4>
+<h4 align="left">My name is <b>Uttej Karamala</b>, and I'm a full-stack developer, AI enthusiast, and student from <b>India</b>.</h4>
 
 ###
 
@@ -53,6 +53,7 @@
   <a href="https://www.linkedin.com/in/uttej-karamala" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="40" alt="linkedin logo" />
   </a>
+  <img width="16">
   <a href="mailto:karamalauttej@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="40" alt="gmail logo" />
   </a>
