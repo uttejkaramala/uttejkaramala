@@ -1,61 +1,70 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<br clear="both">
+
+<img data-importer="image" align="right" height="135" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
-<h4 align="left">My name is <b>Uttej Karamala</b>, and I'm a full-stack developer, AI enthusiast, and student from <b>India</b>.</h4>
+<h1 data-importer="text" align="center">UTTEJ KARAMALA</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 data-importer="text" align="left">About me</h2>
 
 ###
 
-<h4 align="left">I enjoy building web apps, exploring artificial intelligence, and solving coding challenges.  <br>Currently learning new tools and frameworks to level up my skills—especially in web development and machine learning.  <br>I love turning ideas into code and constantly improving through practice and curiosity.<br><br><br>🔍 Currently exploring AI, ML, Langchain<br><br>🎯 Goals<br>Build scalable AI-powered web apps<br><br>Contribute to open-source projects<br><br>Land a role at a top tech company</h4>
+<p data-importer="text" align="left">Hey! I'm Uttej, a developer who enjoys turning ideas into working applications.<br><br>I mainly focus on Java backend development and full-stack engineering, building applications with Spring Boot, REST APIs, databases, and React. I also explore AI/ML, computer vision, and LLM-powered applications.<br><br>I believe in learning by building — understanding not just how to make something work, but why it works.<br><br>💻 Building full-stack applications and practical developer tools<br>☕ Exploring secure, maintainable backend systems with Java<br>🔐 Working with authentication, API design, and database integration<br>🧠 Exploring AI, deep learning, computer vision, and LLMs<br>🎯 Goal: become a strong software engineer by building, testing, and improving real applications</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 data-importer="text" align="left">I code with</h2>
 
 ###
 
-<div align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" height="40" alt="hibernate logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
 </div>
 
 ###
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uttejkaramala/uttejkaramala/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uttejkaramala/uttejkaramala/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/uttejkaramala/uttejkaramala/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
 
-<h2 align="left">Contact Me !</h2>
+<div data-importer="socials" align="left">
+</div>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/uttej-karamala" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="40" alt="linkedin logo" />
+<h2 data-importer="text" align="left">Contact Me!</h2>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/uttejkaramala/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
   </a>
-  <img width="16">
-  <a href="mailto:karamalauttej@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="40" alt="gmail logo" />
+  <a href="mailto:karamalauttej@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
   </a>
 </div>
 
