@@ -70,5 +70,3 @@
 
 ###
 
-
-keep content as it is, dont change any lines just fix that image problem
